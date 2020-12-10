@@ -1,0 +1,12 @@
+core\models\Historico.class
+core\views\P2$2.class
+core\models\Trama.class
+core\DAO\TramaDAO.class
+core\models\Tipo.class
+core\views\P2.class
+core\DAO\HistoricoDAO.class
+core\views\P2$1.class
+com\mycompany\parcialDos\ConnectionProvider.class
+core\models\Sensor.class
+core\DAO\SensorDAO.class
+core\DAO\TipoDAO.class
